@@ -1,6 +1,6 @@
 # RDP
 ## How to get unlimited free RDP
 
->! wget https://raw.githubusercontent.com/alok676875/RDP/main/RDP.sh &> /dev/null
+>! wget https://raw.githubusercontent.com/Om4r-3l/freeRDP/main/myRDP.sh &> /dev/null
 >! chmod +x RDP.sh
 >! ./RDP.sh
