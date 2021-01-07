@@ -1,6 +1,9 @@
 # RDP
-## How to get unlimited free RDP
+## How to get unlimited free RDP using goole colab
 
->! wget https://raw.githubusercontent.com/Om4r-3l/freeRDP/main/myRDP.sh &> /dev/null
->! chmod +x RDP.sh
->! ./RDP.sh
+```bash
+! wget https://raw.githubusercontent.com/Om4r-3l/freeRDP/main/myRDP.sh &> /dev/null
+! chmod +x RDP.sh
+! ./RDP.sh
+
+```
